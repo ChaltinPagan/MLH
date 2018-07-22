@@ -1,12 +1,12 @@
-#MLH Front-End Developer Code Challenge
+# MLH Front-End Developer Code Challenge
 
-##Task
+## Task
 
 Convert a PDF into a working website without using any HTML or CSS frameworks.
 
 [PDF](./2018-07-front-end-challenge-source.pdf)
 
-##Steps
+## Steps
 1. Write HTML file
     * Use appropriate HTML5 elements (i.e. `main`) or assign specific class names.
     * Assign class names for easier styling with CSS.
@@ -26,7 +26,7 @@ Convert a PDF into a working website without using any HTML or CSS frameworks.
     * Add media queries to make webpage mobile-friendly. Make use of Developer Tools.
     * Add comments where necessary.
 
-##Tools
+## Tools
 
 * ColorPick Eyedropper extension for Chrome 
     * To inspect exact hex colors of PDF.
