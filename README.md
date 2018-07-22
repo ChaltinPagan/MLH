@@ -28,7 +28,7 @@ Convert a PDF into a working website without using any HTML or CSS frameworks.
 
 ## Tools
 
-* ColorPick Eyedropper extension for Chrome 
+* [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) extension for Chrome 
     * To inspect exact hex colors of PDF.
 * Adobe Reader 
     * To inspect specific font of PDF.
